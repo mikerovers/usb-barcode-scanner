@@ -1,0 +1,1 @@
+usb-barcode-scanner
