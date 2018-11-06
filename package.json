@@ -1,6 +1,6 @@
 {
   "name": "usb-barcode-scanner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A typed library for using USB barcode scanners in Node.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
