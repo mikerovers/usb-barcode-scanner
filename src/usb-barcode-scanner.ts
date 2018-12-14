@@ -63,14 +63,14 @@ export class UsbScanner extends EventEmitter implements onDataScanned {
         };
 
         const MODIFIER_BITS = {
-            LEFT_CTRL: 0x0,
-            LEFT_SHIFT: 0x1,
-            LEFT_ALT: 0x2,
-            LEFT_GUI: 0x3,
-            RIGHT_CTRL: 0x4,
-            RIGHT_SHIFT: 0x5,
-            RIGHT_ALT: 0x6,
-            RIGHT_GUI: 0x7
+            LEFT_CTRL: 0x1,
+            LEFT_SHIFT: 0x2,
+            LEFT_ALT: 0x3,
+            LEFT_GUI: 0x4,
+            RIGHT_CTRL: 0x5,
+            RIGHT_SHIFT: 0x6,
+            RIGHT_ALT: 0x7,
+            RIGHT_GUI: 0x8
         };
 
         const REPORT_ENDING_KEY_CODE = 40;
